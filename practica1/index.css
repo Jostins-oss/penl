@@ -1,0 +1,22 @@
+.titulos{
+    font-size: 1cm;
+    text-align: center;
+}
+.imagenes1{
+    position: relative;
+    left: 10cm;
+    height:10cm;
+
+}
+.imagenes2{
+    position: relative;
+    left: 20cm;
+    height:10cm;
+
+}
+.imagenes3{
+    position: relative;
+    left: 30cm;
+    height:10cm;
+
+}
